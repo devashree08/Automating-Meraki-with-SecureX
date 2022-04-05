@@ -1,4 +1,4 @@
-# Meraki-Automation-SecureX
+# Automating Meraki with SecureX Orchestration
 
 Using Meraki MX with Secure X and Webex to automate your network's Threat Response 
 
