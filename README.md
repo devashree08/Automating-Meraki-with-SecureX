@@ -19,6 +19,7 @@
 ### Quick Access Links:
 #### To Learn Network Automation:
   - Devnet Learning Labs: https://developer.cisco.com/learning/
+          - Beginner Friendly: https://developer.cisco.com/startnow/  
   - Devnet Certification: https://developer.cisco.com/certification/
 
 #### SecureX Website
